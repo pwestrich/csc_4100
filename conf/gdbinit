@@ -1,0 +1,9 @@
+
+set disassembly-flavor intel
+layout regs
+tabset 3
+tui reg general
+set tui border-kind ascii
+set tui border-mode normal
+set tui active-border-mode standout
+focus cmd
